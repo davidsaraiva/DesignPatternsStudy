@@ -1,15 +1,18 @@
 package ds.designpatterns.creational;
 
-import org.junit.Test;
-
 import static org.junit.Assert.assertEquals;
 
-import ds.designpatterns.creational.factory.EmployeeFactory;
+import org.junit.Test;
+
+import ds.designpatterns.factory.EmployeeFactory;
 import ds.designpatterns.factory.impl.IEmployee;
 
-public class CreationalTest 
+public class CreationalDesignPatternTest 
 {
 	
+	/**
+	 * Test Factory Pattern, and make sure the correct instances are created
+	 */
     @Test 
     public void testFactoryDP()
     {
