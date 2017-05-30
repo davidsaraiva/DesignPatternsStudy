@@ -4,3 +4,6 @@ What better way to take a look at this topic than to implement yourself?
 
 ## How to test
 With every new design pattern I implement I will create a specific test case wich will run over JUnit.
+
+###Added so far:
+- Factory (https://sourcemaking.com/design_patterns/factory_method)
