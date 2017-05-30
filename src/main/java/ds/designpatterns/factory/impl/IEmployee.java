@@ -1,4 +1,4 @@
-package ds.designpatterns.creational.factory.impl;
+package ds.designpatterns.factory.impl;
 
 public interface IEmployee {
 

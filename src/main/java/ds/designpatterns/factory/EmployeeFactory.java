@@ -1,9 +1,9 @@
 package ds.designpatterns.creational.factory;
 
-import ds.designpatterns.creational.factory.dto.FullTimeEmployee;
-import ds.designpatterns.creational.factory.dto.PartTimeEmployee;
-import ds.designpatterns.creational.factory.dto.TemporaryEmployee;
-import ds.designpatterns.creational.factory.impl.IEmployee;
+import ds.designpatterns.factory.dto.FullTimeEmployee;
+import ds.designpatterns.factory.dto.PartTimeEmployee;
+import ds.designpatterns.factory.dto.TemporaryEmployee;
+import ds.designpatterns.factory.impl.IEmployee;
 
 /**
  * 

@@ -1,6 +1,6 @@
-package ds.designpatterns.creational.factory.dto;
+package ds.designpatterns.factory.dto;
 
-import ds.designpatterns.creational.factory.impl.IEmployee;
+import ds.designpatterns.factory.impl.IEmployee;
 
 public class TemporaryEmployee implements IEmployee
 {

@@ -1,2 +1,0 @@
-# DesignPatternsStudy
-TODO

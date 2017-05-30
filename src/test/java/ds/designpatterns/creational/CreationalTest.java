@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 import ds.designpatterns.creational.factory.EmployeeFactory;
-import ds.designpatterns.creational.factory.impl.IEmployee;
+import ds.designpatterns.factory.impl.IEmployee;
 
 public class CreationalTest 
 {
